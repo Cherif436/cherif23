@@ -113,7 +113,7 @@ export default function Intro() {
                 {/*body*/}
                 <div className="relative flex flex-auto p-6 bg-white justify-evenly dark:bg-gray-800">
                   <div className="col-span-12 p-2 rounded-lg sm:col-span-6 lg:col-span-4">
-                    <Image src={img} alt="Merzoud" width="192" height="192" quality="95" priority={true} className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl clearfix hover:scale-110" />
+                    <Image src={img} alt="Merzoud" width="192" height="192" quality="95" priority={true} className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl clearfix hover:scale-125" />
                   </div>
                   <div className="col-span-12 p-2 rounded-lg sm:col-span-6 lg:col-span-4">
                     <p><em>Merzoud</em>  <i>Cherif</i></p>
