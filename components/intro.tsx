@@ -69,7 +69,7 @@ export default function Intro() {
         }}>
           Me contacter{" "} <BsArrowRight className="transition opacity-70 group-hover:translate-x-1" />
         </Link>
-        <a className="flex items-center gap-2 py-3 transition bg-white border rounded-full outline-none cursor-pointer hover:bg-blue-50 group px-7 focus:scale-110 hover:scale-110 active:scale-105 border-blue/30 dark:bg-white/10" href="/CVMC.pdf" download>
+        <a className="flex items-center gap-2 py-3 transition bg-white border rounded-full outline-none cursor-pointer hover:bg-blue-50 group px-7 focus:scale-110 hover:scale-110 active:scale-105 border-blue/30 dark:bg-white/10" href="/CVCM.pdf" download>
           Télécharger mon CV{" "}
           <HiDownload className="transition opacity-60 group-hover:translate-y-1" />
         </a>
@@ -146,7 +146,7 @@ export default function Intro() {
                   >
                     Envoyer message
                   </button>
-                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-blue-800 rounded-full shadow outline-none dark:bg-gray-900 bg-gradient-to-r active:bg-blue-900 hover:shadow-lg focus:outline-none" href="/CVMC.pdf" download="CV.pdf"> Télécharger le CV</a>
+                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-blue-800 rounded-full shadow outline-none dark:bg-gray-900 bg-gradient-to-r active:bg-blue-900 hover:shadow-lg focus:outline-none" href="/CVCM.pdf" download="CV.pdf"> Télécharger le CV</a>
                 </div>
               </div>
             </div>
