@@ -85,11 +85,11 @@ export const formation = [
 export const experiencesData = [
   {
     title: "Freelance developer",
-    location: "Partena, Bruxelles",
+    location: "Bruxelles",
     description:
       "En charge de projets web, analyse des besoins, la conception du site, la phase de développement, les tests et la mise en production, le support technique et la veille technologique.",
     icon: React.createElement(CgWorkAlt),
-    date: "Juin 2022 - présent",
+    date: "Juin 2022 - aujourd'hui",
   },
   {
     title: "Front-end web developer",
