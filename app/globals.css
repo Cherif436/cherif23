@@ -5,7 +5,6 @@
 html {
   font-family: "Lora", "Noto Serif SC", serif;
   --line-color: #e5e7eb; 
-  background-color: #F1FEFE;
 }
 
 html.dark {
